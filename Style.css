@@ -3,3 +3,9 @@
   max-width: 0;
   margin: auto;
 }
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
